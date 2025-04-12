@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+<category>
+  <pattern>*</pattern>
+  <template>
+    Lo siento, no entendí eso muy bien. ¿Podrías reformularlo o preguntarme otra cosa? Estoy aquí para ayudarte.
+  </template>
+</category>
+
+<category>
+  <pattern>HOLA</pattern>
+  <template>¡Hola! ¿En qué puedo ayudarte hoy?</template>
+</category>
+
+<category>
+  <pattern>AYUDA</pattern>
+  <template>Claro, estoy aquí para ayudarte. ¿Qué necesitas saber?</template>
+</category>
+
+<category>
+  <pattern>INFORMACION</pattern>
+  <template>¿Sobre qué tema te gustaría obtener información?</template>
+</category>
+
+<category>
+  <pattern>CONTACTO</pattern>
+  <template>Puedes contactarnos por correo electrónico o mediante el formulario en nuestra página web.</template>
+</category>
+
+<category>
+  <pattern>SERVICIOS</pattern>
+  <template>Ofrecemos una variedad de servicios. ¿Te interesa alguno en particular?</template>
+</category>
+
+<category>
+  <pattern>HORARIOS</pattern>
+  <template>Nuestro horario de atención es de lunes a viernes, de 9 a.m. a 6 p.m.</template>
+</category>
+
+</aiml>
